@@ -16,6 +16,7 @@ st.title("Zurich Construction Analysis")
 def load_data():
     df = pd.read_csv("bau501od5011.csv")
     df.columns = df.columns.str.strip()
+
     df['BaukostenEffektiv'] = df['BaukostenEffektiv'].apply(lambda x: 0 if x == 'K' else pd.to_numeric(x))
     return df
 
@@ -92,19 +93,26 @@ model.fit(X, Y)
 anno_partenza = int(df_input['StichtagDatJahr'].iloc[0])
 anni_futuri = list(range(anno_partenza, anno_partenza + 11)) 
 
-# CAGR calcualtion
+previsioni_base = []
+for anno in anni_futuri:
+    dati_anno = df_input.copy() 
+    dati_anno['StichtagDatJahr'] = anno
+    costo_totale_anno = model.predict(dati_anno).sum() * 1000
+    previsioni_base.append(costo_totale_anno)
+
+previsioni_future = pd.Series(previsioni_base)
+
+# CAGR Calculation
 costi_annui = data.groupby('StichtagDatJahr')['BaukostenEffektiv'].mean()
 anno_min, anno_max = costi_annui.index.min(), costi_annui.index.max()
 tasso_crescita = (costi_annui[anno_max] / costi_annui[anno_min]) ** (1 / (anno_max - anno_min)) - 1
 
-costo_base_ia = model.predict(df_input).sum() * 1000
-
-previsioni_future = []
 for i, anno in enumerate(anni_futuri):
-    costo_futuro = costo_base_ia * ((1 + tasso_crescita) ** i)
-    previsioni_future.append(costo_futuro)
+    if anno > anno_max:
+        anni_di_distanza = anno - anno_max
+        previsioni_future.iloc[i] = previsioni_future.iloc[i] * ((1 + tasso_crescita) ** anni_di_distanza)
 
-df_trend = pd.DataFrame({'Year': anni_futuri, 'Estimated Cost (CHF)': previsioni_future})
+df_trend = pd.DataFrame({'Year': anni_futuri,'Estimated Cost (CHF)': previsioni_future})
 costo_partenza = df_trend['Estimated Cost (CHF)'].iloc[0]
 
 st.markdown("### Market Overview")
