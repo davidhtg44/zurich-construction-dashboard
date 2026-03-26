@@ -92,26 +92,19 @@ model.fit(X, Y)
 anno_partenza = int(df_input['StichtagDatJahr'].iloc[0])
 anni_futuri = list(range(anno_partenza, anno_partenza + 11)) 
 
-previsioni_base = []
-for anno in anni_futuri:
-    dati_anno = df_input.copy() 
-    dati_anno['StichtagDatJahr'] = anno
-    costo_totale_anno = model.predict(dati_anno).sum() * 1000
-    previsioni_base.append(costo_totale_anno)
-
-previsioni_future = pd.Series(previsioni_base)
-
-# CAGR Calculation
+# CAGR calcualtion
 costi_annui = data.groupby('StichtagDatJahr')['BaukostenEffektiv'].mean()
 anno_min, anno_max = costi_annui.index.min(), costi_annui.index.max()
 tasso_crescita = (costi_annui[anno_max] / costi_annui[anno_min]) ** (1 / (anno_max - anno_min)) - 1
 
-for i, anno in enumerate(anni_futuri):
-    if anno > anno_max:
-        anni_di_distanza = anno - anno_max
-        previsioni_future.iloc[i] = previsioni_future.iloc[i] * ((1 + tasso_crescita) ** anni_di_distanza)
+costo_base_ia = model.predict(df_input).sum() * 1000
 
-df_trend = pd.DataFrame({'Year': anni_futuri,'Estimated Cost (CHF)': previsioni_future})
+previsioni_future = []
+for i, anno in enumerate(anni_futuri):
+    costo_futuro = costo_base_ia * ((1 + tasso_crescita) ** i)
+    previsioni_future.append(costo_futuro)
+
+df_trend = pd.DataFrame({'Year': anni_futuri, 'Estimated Cost (CHF)': previsioni_future})
 costo_partenza = df_trend['Estimated Cost (CHF)'].iloc[0]
 
 st.markdown("### Market Overview")
