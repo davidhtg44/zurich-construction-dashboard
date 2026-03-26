@@ -1,0 +1,501 @@
+﻿"StichtagDatJahr","DatenstandCd","GbdArtSSZPubl1Sort","GbdArtSSZPubl1Cd","GbdArtSSZPubl1Lang","AnzNeubauGbd_noDM","AnzAbbruchGbd_noDM"
+1901,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",14,
+1901,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",49,
+1901,"D",3,"3","Wohnhäuser mit Geschäftsräumen",41,
+1901,"D",4,"4","Nichtwohngebäude",49,
+1902,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",17,
+1902,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",36,
+1902,"D",3,"3","Wohnhäuser mit Geschäftsräumen",29,
+1902,"D",4,"4","Nichtwohngebäude",60,
+1903,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",17,
+1903,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",38,
+1903,"D",3,"3","Wohnhäuser mit Geschäftsräumen",28,
+1903,"D",4,"4","Nichtwohngebäude",41,
+1904,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",34,
+1904,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",47,
+1904,"D",3,"3","Wohnhäuser mit Geschäftsräumen",28,
+1904,"D",4,"4","Nichtwohngebäude",64,
+1905,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",21,
+1905,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",47,
+1905,"D",3,"3","Wohnhäuser mit Geschäftsräumen",22,
+1905,"D",4,"4","Nichtwohngebäude",33,
+1906,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",30,
+1906,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",72,
+1906,"D",3,"3","Wohnhäuser mit Geschäftsräumen",46,
+1906,"D",4,"4","Nichtwohngebäude",43,
+1907,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",37,
+1907,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",73,
+1907,"D",3,"3","Wohnhäuser mit Geschäftsräumen",54,
+1907,"D",4,"4","Nichtwohngebäude",78,
+1908,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",39,
+1908,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",93,
+1908,"D",3,"3","Wohnhäuser mit Geschäftsräumen",59,
+1908,"D",4,"4","Nichtwohngebäude",84,
+1909,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",56,
+1909,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",146,
+1909,"D",3,"3","Wohnhäuser mit Geschäftsräumen",52,
+1909,"D",4,"4","Nichtwohngebäude",76,
+1910,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",74,
+1910,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",182,
+1910,"D",3,"3","Wohnhäuser mit Geschäftsräumen",103,
+1910,"D",4,"4","Nichtwohngebäude",93,
+1911,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",84,
+1911,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",207,
+1911,"D",3,"3","Wohnhäuser mit Geschäftsräumen",114,
+1911,"D",4,"4","Nichtwohngebäude",95,
+1912,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",68,
+1912,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",199,
+1912,"D",3,"3","Wohnhäuser mit Geschäftsräumen",79,
+1912,"D",4,"4","Nichtwohngebäude",90,
+1913,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",59,
+1913,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",82,
+1913,"D",3,"3","Wohnhäuser mit Geschäftsräumen",40,
+1913,"D",4,"4","Nichtwohngebäude",32,
+1914,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",81,
+1914,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",69,
+1914,"D",3,"3","Wohnhäuser mit Geschäftsräumen",35,
+1914,"D",4,"4","Nichtwohngebäude",67,
+1915,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",42,
+1915,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",63,
+1915,"D",3,"3","Wohnhäuser mit Geschäftsräumen",24,
+1915,"D",4,"4","Nichtwohngebäude",37,
+1916,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",36,
+1916,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",27,
+1916,"D",3,"3","Wohnhäuser mit Geschäftsräumen",20,
+1916,"D",4,"4","Nichtwohngebäude",46,
+1917,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",35,
+1917,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",35,
+1917,"D",3,"3","Wohnhäuser mit Geschäftsräumen",14,
+1917,"D",4,"4","Nichtwohngebäude",44,
+1918,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",31,
+1918,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",53,
+1918,"D",3,"3","Wohnhäuser mit Geschäftsräumen",10,
+1918,"D",4,"4","Nichtwohngebäude",40,
+1919,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",26,
+1919,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",64,
+1919,"D",3,"3","Wohnhäuser mit Geschäftsräumen",3,
+1919,"D",4,"4","Nichtwohngebäude",32,
+1920,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",86,
+1920,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",46,
+1920,"D",3,"3","Wohnhäuser mit Geschäftsräumen",6,
+1920,"D",4,"4","Nichtwohngebäude",46,
+1921,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",106,
+1921,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",40,
+1921,"D",3,"3","Wohnhäuser mit Geschäftsräumen",3,
+1921,"D",4,"4","Nichtwohngebäude",82,
+1922,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",58,
+1922,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",40,
+1922,"D",3,"3","Wohnhäuser mit Geschäftsräumen",17,
+1922,"D",4,"4","Nichtwohngebäude",49,
+1923,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",116,
+1923,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",69,
+1923,"D",3,"3","Wohnhäuser mit Geschäftsräumen",23,
+1923,"D",4,"4","Nichtwohngebäude",73,
+1924,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",193,
+1924,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",198,
+1924,"D",3,"3","Wohnhäuser mit Geschäftsräumen",46,
+1924,"D",4,"4","Nichtwohngebäude",116,
+1925,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",292,
+1925,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",103,
+1925,"D",3,"3","Wohnhäuser mit Geschäftsräumen",51,
+1925,"D",4,"4","Nichtwohngebäude",120,
+1926,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",295,
+1926,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",212,
+1926,"D",3,"3","Wohnhäuser mit Geschäftsräumen",74,
+1926,"D",4,"4","Nichtwohngebäude",123,
+1927,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",228,
+1927,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",211,
+1927,"D",3,"3","Wohnhäuser mit Geschäftsräumen",102,
+1927,"D",4,"4","Nichtwohngebäude",129,
+1928,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",214,
+1928,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",315,
+1928,"D",3,"3","Wohnhäuser mit Geschäftsräumen",100,
+1928,"D",4,"4","Nichtwohngebäude",178,
+1929,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",440,
+1929,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",301,
+1929,"D",3,"3","Wohnhäuser mit Geschäftsräumen",118,
+1929,"D",4,"4","Nichtwohngebäude",178,
+1930,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",166,
+1930,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",316,
+1930,"D",3,"3","Wohnhäuser mit Geschäftsräumen",124,
+1930,"D",4,"4","Nichtwohngebäude",152,
+1931,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",429,11
+1931,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",469,20
+1931,"D",3,"3","Wohnhäuser mit Geschäftsräumen",181,41
+1931,"D",4,"4","Nichtwohngebäude",221,125
+1932,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",227,15
+1932,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",441,20
+1932,"D",3,"3","Wohnhäuser mit Geschäftsräumen",187,32
+1932,"D",4,"4","Nichtwohngebäude",218,85
+1933,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",285,11
+1933,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",190,13
+1933,"D",3,"3","Wohnhäuser mit Geschäftsräumen",76,32
+1933,"D",4,"4","Nichtwohngebäude",143,105
+1934,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",302,12
+1934,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",251,14
+1934,"D",3,"3","Wohnhäuser mit Geschäftsräumen",102,10
+1934,"D",4,"4","Nichtwohngebäude",124,100
+1935,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",177,4
+1935,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",176,9
+1935,"D",3,"3","Wohnhäuser mit Geschäftsräumen",55,11
+1935,"D",4,"4","Nichtwohngebäude",94,95
+1936,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",78,3
+1936,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",60,12
+1936,"D",3,"3","Wohnhäuser mit Geschäftsräumen",16,7
+1936,"D",4,"4","Nichtwohngebäude",116,94
+1937,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",141,13
+1937,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",100,14
+1937,"D",3,"3","Wohnhäuser mit Geschäftsräumen",22,19
+1937,"D",4,"4","Nichtwohngebäude",82,96
+1938,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",182,17
+1938,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",157,35
+1938,"D",3,"3","Wohnhäuser mit Geschäftsräumen",40,23
+1938,"D",4,"4","Nichtwohngebäude",72,151
+1939,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",139,12
+1939,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",236,27
+1939,"D",3,"3","Wohnhäuser mit Geschäftsräumen",53,16
+1939,"D",4,"4","Nichtwohngebäude",141,99
+1940,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",81,3
+1940,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",101,7
+1940,"D",3,"3","Wohnhäuser mit Geschäftsräumen",21,10
+1940,"D",4,"4","Nichtwohngebäude",117,46
+1941,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",96,6
+1941,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",95,19
+1941,"D",3,"3","Wohnhäuser mit Geschäftsräumen",23,15
+1941,"D",4,"4","Nichtwohngebäude",120,93
+1942,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",35,4
+1942,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",142,8
+1942,"D",3,"3","Wohnhäuser mit Geschäftsräumen",35,17
+1942,"D",4,"4","Nichtwohngebäude",123,62
+1943,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",271,9
+1943,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",143,10
+1943,"D",3,"3","Wohnhäuser mit Geschäftsräumen",19,3
+1943,"D",4,"4","Nichtwohngebäude",173,48
+1944,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",521,5
+1944,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",195,11
+1944,"D",3,"3","Wohnhäuser mit Geschäftsräumen",26,7
+1944,"D",4,"4","Nichtwohngebäude",83,66
+1945,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",458,8
+1945,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",222,12
+1945,"D",3,"3","Wohnhäuser mit Geschäftsräumen",32,12
+1945,"D",4,"4","Nichtwohngebäude",84,48
+1946,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",590,17
+1946,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",219,14
+1946,"D",3,"3","Wohnhäuser mit Geschäftsräumen",53,27
+1946,"D",4,"4","Nichtwohngebäude",110,100
+1947,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",494,11
+1947,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",186,17
+1947,"D",3,"3","Wohnhäuser mit Geschäftsräumen",53,28
+1947,"D",4,"4","Nichtwohngebäude",116,117
+1948,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",496,16
+1948,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",382,16
+1948,"D",3,"3","Wohnhäuser mit Geschäftsräumen",36,24
+1948,"D",4,"4","Nichtwohngebäude",296,88
+1949,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",384,13
+1949,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",324,12
+1949,"D",3,"3","Wohnhäuser mit Geschäftsräumen",16,24
+1949,"D",4,"4","Nichtwohngebäude",182,94
+1950,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",186,16
+1950,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",412,30
+1950,"D",3,"3","Wohnhäuser mit Geschäftsräumen",38,41
+1950,"D",4,"4","Nichtwohngebäude",152,113
+1951,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",190,17
+1951,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",509,50
+1951,"D",3,"3","Wohnhäuser mit Geschäftsräumen",67,25
+1951,"D",4,"4","Nichtwohngebäude",204,108
+1952,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",154,31
+1952,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",532,34
+1952,"D",3,"3","Wohnhäuser mit Geschäftsräumen",60,29
+1952,"D",4,"4","Nichtwohngebäude",213,127
+1953,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",212,22
+1953,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",372,34
+1953,"D",3,"3","Wohnhäuser mit Geschäftsräumen",49,39
+1953,"D",4,"4","Nichtwohngebäude",250,116
+1954,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",76,26
+1954,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",409,26
+1954,"D",3,"3","Wohnhäuser mit Geschäftsräumen",43,34
+1954,"D",4,"4","Nichtwohngebäude",179,135
+1955,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",58,22
+1955,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",340,49
+1955,"D",3,"3","Wohnhäuser mit Geschäftsräumen",34,51
+1955,"D",4,"4","Nichtwohngebäude",251,168
+1956,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",51,19
+1956,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",206,56
+1956,"D",3,"3","Wohnhäuser mit Geschäftsräumen",29,72
+1956,"D",4,"4","Nichtwohngebäude",318,193
+1957,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",66,16
+1957,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",234,32
+1957,"D",3,"3","Wohnhäuser mit Geschäftsräumen",34,29
+1957,"D",4,"4","Nichtwohngebäude",281,121
+1958,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",16,15
+1958,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",275,45
+1958,"D",3,"3","Wohnhäuser mit Geschäftsräumen",32,55
+1958,"D",4,"4","Nichtwohngebäude",309,151
+1959,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",7,26
+1959,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",252,28
+1959,"D",3,"3","Wohnhäuser mit Geschäftsräumen",38,37
+1959,"D",4,"4","Nichtwohngebäude",223,163
+1960,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",10,31
+1960,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",279,48
+1960,"D",3,"3","Wohnhäuser mit Geschäftsräumen",36,61
+1960,"D",4,"4","Nichtwohngebäude",199,166
+1961,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",12,21
+1961,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",176,53
+1961,"D",3,"3","Wohnhäuser mit Geschäftsräumen",41,46
+1961,"D",4,"4","Nichtwohngebäude",184,163
+1962,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",16,28
+1962,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",174,52
+1962,"D",3,"3","Wohnhäuser mit Geschäftsräumen",29,34
+1962,"D",4,"4","Nichtwohngebäude",217,162
+1963,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",32,42
+1963,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",115,46
+1963,"D",3,"3","Wohnhäuser mit Geschäftsräumen",38,47
+1963,"D",4,"4","Nichtwohngebäude",213,168
+1964,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",18,38
+1964,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",193,37
+1964,"D",3,"3","Wohnhäuser mit Geschäftsräumen",23,36
+1964,"D",4,"4","Nichtwohngebäude",237,128
+1965,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",14,15
+1965,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",178,36
+1965,"D",3,"3","Wohnhäuser mit Geschäftsräumen",29,25
+1965,"D",4,"4","Nichtwohngebäude",206,135
+1966,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",11,56
+1966,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",139,45
+1966,"D",3,"3","Wohnhäuser mit Geschäftsräumen",16,25
+1966,"D",4,"4","Nichtwohngebäude",223,147
+1967,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",4,14
+1967,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",113,17
+1967,"D",3,"3","Wohnhäuser mit Geschäftsräumen",20,34
+1967,"D",4,"4","Nichtwohngebäude",266,126
+1968,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",5,29
+1968,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",153,35
+1968,"D",3,"3","Wohnhäuser mit Geschäftsräumen",27,46
+1968,"D",4,"4","Nichtwohngebäude",200,145
+1969,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",20,29
+1969,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",161,55
+1969,"D",3,"3","Wohnhäuser mit Geschäftsräumen",22,61
+1969,"D",4,"4","Nichtwohngebäude",185,212
+1970,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",2,23
+1970,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",148,49
+1970,"D",3,"3","Wohnhäuser mit Geschäftsräumen",19,63
+1970,"D",4,"4","Nichtwohngebäude",138,184
+1971,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",12,126
+1971,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",122,90
+1971,"D",3,"3","Wohnhäuser mit Geschäftsräumen",36,65
+1971,"D",4,"4","Nichtwohngebäude",170,253
+1972,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",37,96
+1972,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",132,32
+1972,"D",3,"3","Wohnhäuser mit Geschäftsräumen",48,13
+1972,"D",4,"4","Nichtwohngebäude",237,151
+1973,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",13,50
+1973,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",137,25
+1973,"D",3,"3","Wohnhäuser mit Geschäftsräumen",34,14
+1973,"D",4,"4","Nichtwohngebäude",273,134
+1974,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",21,17
+1974,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",159,20
+1974,"D",3,"3","Wohnhäuser mit Geschäftsräumen",21,10
+1974,"D",4,"4","Nichtwohngebäude",201,143
+1975,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",12,76
+1975,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",99,30
+1975,"D",3,"3","Wohnhäuser mit Geschäftsräumen",16,23
+1975,"D",4,"4","Nichtwohngebäude",361,149
+1976,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",2,21
+1976,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",95,38
+1976,"D",3,"3","Wohnhäuser mit Geschäftsräumen",25,26
+1976,"D",4,"4","Nichtwohngebäude",286,203
+1977,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",18,21
+1977,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",91,39
+1977,"D",3,"3","Wohnhäuser mit Geschäftsräumen",23,14
+1977,"D",4,"4","Nichtwohngebäude",322,189
+1978,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",35,20
+1978,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",69,29
+1978,"D",3,"3","Wohnhäuser mit Geschäftsräumen",5,36
+1978,"D",4,"4","Nichtwohngebäude",209,135
+1979,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",30,17
+1979,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",114,51
+1979,"D",3,"3","Wohnhäuser mit Geschäftsräumen",16,36
+1979,"D",4,"4","Nichtwohngebäude",254,182
+1980,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",14,23
+1980,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",123,27
+1980,"D",3,"3","Wohnhäuser mit Geschäftsräumen",20,36
+1980,"D",4,"4","Nichtwohngebäude",201,148
+1981,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",43,61
+1981,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",184,36
+1981,"D",3,"3","Wohnhäuser mit Geschäftsräumen",34,35
+1981,"D",4,"4","Nichtwohngebäude",195,205
+1982,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",66,12
+1982,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",165,16
+1982,"D",3,"3","Wohnhäuser mit Geschäftsräumen",49,34
+1982,"D",4,"4","Nichtwohngebäude",255,162
+1983,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",10,10
+1983,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",90,26
+1983,"D",3,"3","Wohnhäuser mit Geschäftsräumen",34,29
+1983,"D",4,"4","Nichtwohngebäude",142,151
+1984,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",14,17
+1984,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",97,23
+1984,"D",3,"3","Wohnhäuser mit Geschäftsräumen",36,22
+1984,"D",4,"4","Nichtwohngebäude",141,105
+1985,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",6,15
+1985,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",99,19
+1985,"D",3,"3","Wohnhäuser mit Geschäftsräumen",43,19
+1985,"D",4,"4","Nichtwohngebäude",153,139
+1986,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",14,16
+1986,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",85,14
+1986,"D",3,"3","Wohnhäuser mit Geschäftsräumen",31,13
+1986,"D",4,"4","Nichtwohngebäude",105,115
+1987,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",0,18
+1987,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",53,25
+1987,"D",3,"3","Wohnhäuser mit Geschäftsräumen",33,23
+1987,"D",4,"4","Nichtwohngebäude",60,201
+1988,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",6,15
+1988,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",44,19
+1988,"D",3,"3","Wohnhäuser mit Geschäftsräumen",22,15
+1988,"D",4,"4","Nichtwohngebäude",54,137
+1989,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",9,18
+1989,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",36,19
+1989,"D",3,"3","Wohnhäuser mit Geschäftsräumen",32,11
+1989,"D",4,"4","Nichtwohngebäude",50,96
+1990,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",58,22
+1990,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",32,25
+1990,"D",3,"3","Wohnhäuser mit Geschäftsräumen",27,18
+1990,"D",4,"4","Nichtwohngebäude",58,102
+1991,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",52,19
+1991,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",81,12
+1991,"D",3,"3","Wohnhäuser mit Geschäftsräumen",67,10
+1991,"D",4,"4","Nichtwohngebäude",90,131
+1992,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",17,32
+1992,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",41,16
+1992,"D",3,"3","Wohnhäuser mit Geschäftsräumen",28,9
+1992,"D",4,"4","Nichtwohngebäude",102,98
+1993,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",31,8
+1993,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",79,13
+1993,"D",3,"3","Wohnhäuser mit Geschäftsräumen",24,9
+1993,"D",4,"4","Nichtwohngebäude",127,63
+1994,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",19,13
+1994,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",61,9
+1994,"D",3,"3","Wohnhäuser mit Geschäftsräumen",24,21
+1994,"D",4,"4","Nichtwohngebäude",125,96
+1995,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",9,14
+1995,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",39,7
+1995,"D",3,"3","Wohnhäuser mit Geschäftsräumen",30,3
+1995,"D",4,"4","Nichtwohngebäude",111,118
+1996,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",7,9
+1996,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",53,12
+1996,"D",3,"3","Wohnhäuser mit Geschäftsräumen",11,2
+1996,"D",4,"4","Nichtwohngebäude",67,91
+1997,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",20,3
+1997,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",33,17
+1997,"D",3,"3","Wohnhäuser mit Geschäftsräumen",8,11
+1997,"D",4,"4","Nichtwohngebäude",74,140
+1998,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",34,15
+1998,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",66,17
+1998,"D",3,"3","Wohnhäuser mit Geschäftsräumen",7,14
+1998,"D",4,"4","Nichtwohngebäude",56,142
+1999,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",15,11
+1999,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",67,9
+1999,"D",3,"3","Wohnhäuser mit Geschäftsräumen",9,15
+1999,"D",4,"4","Nichtwohngebäude",51,236
+2000,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",44,66
+2000,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",84,17
+2000,"D",3,"3","Wohnhäuser mit Geschäftsräumen",12,7
+2000,"D",4,"4","Nichtwohngebäude",96,236
+2001,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",16,65
+2001,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",73,14
+2001,"D",3,"3","Wohnhäuser mit Geschäftsräumen",19,10
+2001,"D",4,"4","Nichtwohngebäude",70,160
+2002,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",29,11
+2002,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",82,38
+2002,"D",3,"3","Wohnhäuser mit Geschäftsräumen",15,13
+2002,"D",4,"4","Nichtwohngebäude",60,284
+2003,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",50,19
+2003,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",117,17
+2003,"D",3,"3","Wohnhäuser mit Geschäftsräumen",13,3
+2003,"D",4,"4","Nichtwohngebäude",61,216
+2004,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",8,21
+2004,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",76,54
+2004,"D",3,"3","Wohnhäuser mit Geschäftsräumen",21,10
+2004,"D",4,"4","Nichtwohngebäude",61,260
+2005,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",14,84
+2005,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",72,50
+2005,"D",3,"3","Wohnhäuser mit Geschäftsräumen",23,14
+2005,"D",4,"4","Nichtwohngebäude",56,184
+2006,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",15,45
+2006,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",91,14
+2006,"D",3,"3","Wohnhäuser mit Geschäftsräumen",18,10
+2006,"D",4,"4","Nichtwohngebäude",88,115
+2007,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",68,10
+2007,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",143,62
+2007,"D",3,"3","Wohnhäuser mit Geschäftsräumen",31,19
+2007,"D",4,"4","Nichtwohngebäude",100,93
+2008,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",14,27
+2008,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",118,96
+2008,"D",3,"3","Wohnhäuser mit Geschäftsräumen",9,13
+2008,"D",4,"4","Nichtwohngebäude",28,108
+2009,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",6,144
+2009,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",107,81
+2009,"D",3,"3","Wohnhäuser mit Geschäftsräumen",13,16
+2009,"D",4,"4","Nichtwohngebäude",55,96
+2010,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",15,70
+2010,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",107,82
+2010,"D",3,"3","Wohnhäuser mit Geschäftsräumen",18,29
+2010,"D",4,"4","Nichtwohngebäude",370,333
+2011,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",8,120
+2011,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",192,84
+2011,"D",3,"3","Wohnhäuser mit Geschäftsräumen",24,14
+2011,"D",4,"4","Nichtwohngebäude",408,178
+2012,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",80,39
+2012,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",135,123
+2012,"D",3,"3","Wohnhäuser mit Geschäftsräumen",32,9
+2012,"D",4,"4","Nichtwohngebäude",238,128
+2013,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",36,41
+2013,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",116,69
+2013,"D",3,"3","Wohnhäuser mit Geschäftsräumen",44,16
+2013,"D",4,"4","Nichtwohngebäude",179,139
+2014,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",15,126
+2014,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",109,134
+2014,"D",3,"3","Wohnhäuser mit Geschäftsräumen",33,18
+2014,"D",4,"4","Nichtwohngebäude",265,94
+2015,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",44,52
+2015,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",145,99
+2015,"D",3,"3","Wohnhäuser mit Geschäftsräumen",63,21
+2015,"D",4,"4","Nichtwohngebäude",292,147
+2016,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",18,177
+2016,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",144,135
+2016,"D",3,"3","Wohnhäuser mit Geschäftsräumen",49,25
+2016,"D",4,"4","Nichtwohngebäude",185,104
+2017,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",38,26
+2017,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",134,126
+2017,"D",3,"3","Wohnhäuser mit Geschäftsräumen",66,23
+2017,"D",4,"4","Nichtwohngebäude",145,118
+2018,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",14,16
+2018,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",170,89
+2018,"D",3,"3","Wohnhäuser mit Geschäftsräumen",46,17
+2018,"D",4,"4","Nichtwohngebäude",312,83
+2019,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",11,22
+2019,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",114,39
+2019,"D",3,"3","Wohnhäuser mit Geschäftsräumen",34,24
+2019,"D",4,"4","Nichtwohngebäude",184,82
+2020,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",11,26
+2020,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",98,91
+2020,"D",3,"3","Wohnhäuser mit Geschäftsräumen",24,18
+2020,"D",4,"4","Nichtwohngebäude",157,101
+2021,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",12,89
+2021,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",114,156
+2021,"D",3,"3","Wohnhäuser mit Geschäftsräumen",34,42
+2021,"D",4,"4","Nichtwohngebäude",181,188
+2022,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",13,37
+2022,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",143,122
+2022,"D",3,"3","Wohnhäuser mit Geschäftsräumen",27,19
+2022,"D",4,"4","Nichtwohngebäude",138,150
+2023,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",11,93
+2023,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",142,128
+2023,"D",3,"3","Wohnhäuser mit Geschäftsräumen",60,25
+2023,"D",4,"4","Nichtwohngebäude",227,238
+2024,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",5,19
+2024,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",124,99
+2024,"D",3,"3","Wohnhäuser mit Geschäftsräumen",41,24
+2024,"D",4,"4","Nichtwohngebäude",219,145
+2025,"D",1,"1","Einfamilienhäuser ohne Geschäftsräume",42,159
+2025,"D",2,"2","Mehrfamilienhäuser ohne Geschäftsräume",144,152
+2025,"D",3,"3","Wohnhäuser mit Geschäftsräumen",36,42
+2025,"D",4,"4","Nichtwohngebäude",214,180

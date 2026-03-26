@@ -1,0 +1,1005 @@
+﻿"StichtagDatJahr","DatenstandCd","QuarSort","QuarCd","QuarLang","KreisSort","KreisCd","KreisLang","ProjektStatusSSZPubl1Sort","ProjektStatusSSZPubl1Cd","ProjektStatusSSZPubl1Lang","ArtArbeitenSort","ArtArbeitenCd","ArtArbeitenLang","AnzBauprojekte","BaukostenEffektiv"
+2009,"D",11,"011","Rathaus",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2009,"D",12,"012","Hochschulen",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2009,"D",14,"014","City",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2009,"D",14,"014","City",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2009,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",7,36600
+2009,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2009,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2009,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2009,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",10,413200
+2009,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2009,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2009,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,77420
+2009,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2009,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2009,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2009,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2009,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",3,46200
+2009,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,K
+2009,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",6,1105900
+2009,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2009,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",6,74932
+2009,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2009,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",8,52837
+2009,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2009,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",11,118828
+2009,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,14430
+2009,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2009,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",7,27480
+2009,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,35937
+2009,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2009,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2009,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",6,K
+2009,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,64000
+2009,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",8,47572
+2009,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2009,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,93579
+2009,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",6,165943
+2009,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,88712
+2009,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",16,371022
+2009,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,K
+2009,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",7,129530
+2009,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",8,55952
+2009,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,104490
+2009,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",12,363150
+2009,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,41559
+2009,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",6,93500
+2009,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,359590
+2009,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",11,253190
+2009,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2009,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2009,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2009,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2010,"D",11,"011","Rathaus",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2010,"D",12,"012","Hochschulen",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2010,"D",14,"014","City",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2010,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2010,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",7,36750
+2010,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2010,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2010,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,49500
+2010,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2010,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2010,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",8,445100
+2010,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",5,491394
+2010,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2010,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",3,136357
+2010,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2010,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2010,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,113900
+2010,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2010,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2010,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2010,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2010,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2010,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",10,K
+2010,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,67320
+2010,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",5,47502
+2010,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,80325
+2010,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",6,34600
+2010,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,68391
+2010,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",8,93308
+2010,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,43160
+2010,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2010,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,10211
+2010,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2010,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,34017
+2010,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",5,36520
+2010,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,21700
+2010,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2010,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2010,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",10,106800
+2010,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2010,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2010,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,36510
+2010,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",9,254163
+2010,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,223780
+2010,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",18,309240
+2010,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,137100
+2010,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",13,158901
+2010,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,148500
+2010,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",4,22020
+2010,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,27045
+2010,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",11,390340
+2010,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,49570
+2010,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",10,110489
+2010,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,178685
+2010,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",12,402240
+2010,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2010,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2010,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,197000
+2011,"D",12,"012","Hochschulen",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2011,"D",14,"014","City",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2011,"D",14,"014","City",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2011,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,63011
+2011,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",8,41220
+2011,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,44950
+2011,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2011,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,162510
+2011,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2011,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2011,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",6,370700
+2011,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",7,496044
+2011,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2011,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",7,144321
+2011,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2011,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2011,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,259250
+2011,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",5,432190
+2011,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2011,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2011,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2011,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2011,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",10,915444
+2011,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,K
+2011,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",3,43460
+2011,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2011,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",6,104260
+2011,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,30954
+2011,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2011,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,27900
+2011,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",5,12310
+2011,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,17200
+2011,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2011,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,66842
+2011,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",7,24240
+2011,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2011,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,26500
+2011,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,35200
+2011,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",6,71000
+2011,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2011,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,7600
+2011,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,18191
+2011,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",13,203553
+2011,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,284237
+2011,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",11,154600
+2011,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,180500
+2011,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",6,140127
+2011,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,135100
+2011,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",3,33376
+2011,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,40700
+2011,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",9,165595
+2011,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,52925
+2011,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",7,76299
+2011,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,132100
+2011,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",16,632756
+2011,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,158050
+2011,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2011,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,19964
+2011,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2011,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,183185
+2011,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",3,78800
+2012,"D",11,"011","Rathaus",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2012,"D",12,"012","Hochschulen",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2012,"D",14,"014","City",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2012,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,90553
+2012,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",6,37430
+2012,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,14900
+2012,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",3,110150
+2012,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,428680
+2012,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",3,30050
+2012,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2012,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,95200
+2012,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2012,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,433794
+2012,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,15600
+2012,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",6,101500
+2012,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2012,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",3,103300
+2012,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2012,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2012,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2012,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2012,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,K
+2012,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",11,938000
+2012,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,29350
+2012,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",5,47370
+2012,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,11825
+2012,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",3,77600
+2012,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,25491
+2012,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",6,55990
+2012,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,40550
+2012,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2012,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,15500
+2012,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2012,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,74750
+2012,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",5,36250
+2012,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2012,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,35500
+2012,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2012,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,25900
+2012,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,121423
+2012,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,19300
+2012,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,432840
+2012,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",3,34111
+2012,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,315575
+2012,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",12,207325
+2012,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,297660
+2012,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",9,K
+2012,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,135100
+2012,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2012,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,36180
+2012,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",8,114695
+2012,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,45500
+2012,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",11,100600
+2012,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,195812
+2012,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",13,534816
+2012,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,168050
+2012,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2012,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2012,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2012,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2012,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",4,150965
+2013,"D",11,"011","Rathaus",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2013,"D",12,"012","Hochschulen",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2013,"D",14,"014","City",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2013,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,26295
+2013,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",9,143673
+2013,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,15800
+2013,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2013,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,145180
+2013,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",7,K
+2013,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2013,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2013,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2013,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2013,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,114000
+2013,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",5,52235
+2013,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2013,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2013,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,124500
+2013,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2013,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2013,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2013,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,K
+2013,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",6,K
+2013,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,74475
+2013,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",3,136500
+2013,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,18025
+2013,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",3,81600
+2013,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,182591
+2013,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",7,60525
+2013,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,19000
+2013,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2013,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,15500
+2013,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2013,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,53850
+2013,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",10,96472
+2013,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2013,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2013,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2013,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2013,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,63780
+2013,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,89300
+2013,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",14,268529
+2013,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",8,482050
+2013,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,250343
+2013,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",17,431606
+2013,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",15,354295
+2013,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",14,209395
+2013,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,95500
+2013,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,65995
+2013,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",5,165000
+2013,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,27000
+2013,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",10,102100
+2013,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,118000
+2013,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",14,382812
+2013,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,12550
+2013,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2013,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2013,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2013,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2013,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",5,195165
+2014,"D",11,"011","Rathaus",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2014,"D",12,"012","Hochschulen",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2014,"D",14,"014","City",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2014,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,195686
+2014,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",6,100695
+2014,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,10195
+2014,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2014,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,115180
+2014,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2014,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,51500
+2014,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,97880
+2014,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2014,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,480250
+2014,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2014,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,22235
+2014,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2014,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2014,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2014,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",6,366000
+2014,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2014,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2014,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",7,238100
+2014,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,17334
+2014,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",4,192425
+2014,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,15425
+2014,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",4,17080
+2014,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,161464
+2014,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",8,90575
+2014,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2014,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,20182
+2014,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2014,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2014,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,87450
+2014,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2014,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,82470
+2014,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,23450
+2014,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2014,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,17550
+2014,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2014,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,160539
+2014,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",14,456893
+2014,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,236178
+2014,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",12,561232
+2014,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,146284
+2014,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",17,347808
+2014,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,72600
+2014,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",4,167235
+2014,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,83010
+2014,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",4,95300
+2014,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,139860
+2014,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",11,101600
+2014,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,50220
+2014,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",11,213800
+2014,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,K
+2014,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2014,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2014,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2014,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",3,108721
+2015,"D",11,"011","Rathaus",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2015,"D",12,"012","Hochschulen",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2015,"D",14,"014","City",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2015,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",14,336900
+2015,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",10,170983
+2015,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2015,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2015,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,K
+2015,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2015,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,50550
+2015,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2015,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2015,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2015,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2015,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2015,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2015,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2015,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",6,302600
+2015,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2015,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2015,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2015,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2015,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2015,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,148650
+2015,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2015,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,213750
+2015,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2015,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,38730
+2015,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",10,150396
+2015,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2015,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2015,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2015,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2015,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,132100
+2015,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,25300
+2015,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2015,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",5,61200
+2015,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,56110
+2015,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,9950
+2015,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2015,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,49930
+2015,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,77430
+2015,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",10,505929
+2015,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,157478
+2015,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",13,695276
+2015,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,147684
+2015,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",13,237713
+2015,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,53200
+2015,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",8,111775
+2015,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,148070
+2015,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",5,121500
+2015,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,136863
+2015,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",12,102550
+2015,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,322160
+2015,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",9,198180
+2015,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,146090
+2015,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2015,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,51110
+2015,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2015,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,69090
+2015,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",4,116550
+2016,"D",12,"012","Hochschulen",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2016,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,495282
+2016,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",14,370170
+2016,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2016,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2016,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2016,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2016,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2016,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",6,67330
+2016,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2016,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",3,115985
+2016,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,103300
+2016,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",3,55100
+2016,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2016,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2016,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2016,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",7,525600
+2016,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2016,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2016,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,14760
+2016,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,52970
+2016,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2016,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,K
+2016,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",3,88500
+2016,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2016,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",7,230700
+2016,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,226800
+2016,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",12,144462
+2016,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,113550
+2016,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2016,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2016,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2016,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2016,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",6,55900
+2016,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2016,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",5,61200
+2016,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2016,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2016,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,89650
+2016,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2016,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,37540
+2016,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",10,155130
+2016,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,112612
+2016,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",13,658157
+2016,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,23839
+2016,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",9,94580
+2016,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,14000
+2016,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",7,120000
+2016,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,67800
+2016,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",8,123805
+2016,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,166560
+2016,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",13,199658
+2016,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,320148
+2016,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",6,194580
+2016,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2016,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2016,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2016,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",4,73904
+2016,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,106201
+2016,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2017,"D",12,"012","Hochschulen",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2017,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,422625
+2017,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",12,377280
+2017,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2017,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2017,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2017,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",6,K
+2017,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2017,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",6,89730
+2017,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2017,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2017,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2017,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,K
+2017,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2017,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2017,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2017,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,66900
+2017,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",3,16900
+2017,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,252000
+2017,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",4,89610
+2017,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,119710
+2017,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",5,249000
+2017,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,28800
+2017,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",5,218900
+2017,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,42800
+2017,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",8,353409
+2017,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,118600
+2017,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2017,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,50267
+2017,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2017,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,79400
+2017,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",9,107000
+2017,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,107300
+2017,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,48580
+2017,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,665250
+2017,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,49520
+2017,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,126800
+2017,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",10,106600
+2017,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",17,233658
+2017,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",12,448568
+2017,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,26339
+2017,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",10,61707
+2017,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,44100
+2017,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",4,70200
+2017,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2017,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",13,188705
+2017,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,K
+2017,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",14,218720
+2017,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",14,185190
+2017,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",6,445580
+2017,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,9450
+2017,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2017,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2017,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2017,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2017,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",6,120140
+2018,"D",12,"012","Hochschulen",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2018,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,212176
+2018,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",10,456180
+2018,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,66557
+2018,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2018,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,74200
+2018,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2018,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2018,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2018,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2018,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2018,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2018,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",5,67040
+2018,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2018,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",5,411400
+2018,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2018,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",3,593370
+2018,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2018,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",5,79550
+2018,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2018,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",9,404510
+2018,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,115580
+2018,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",6,156860
+2018,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,34400
+2018,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",3,196150
+2018,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,49690
+2018,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",10,323300
+2018,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2018,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,13843
+2018,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2018,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,50267
+2018,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,45457
+2018,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",6,74030
+2018,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2018,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2018,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2018,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2018,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2018,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",8,700493
+2018,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,119950
+2018,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",8,140150
+2018,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",16,356868
+2018,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",14,405369
+2018,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",15,K
+2018,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",6,22100
+2018,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2018,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",4,94863
+2018,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2018,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",3,64480
+2018,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,K
+2018,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",8,51720
+2018,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,530100
+2018,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",9,403535
+2018,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2018,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2018,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2018,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2018,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,50913
+2018,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",3,65180
+2019,"D",12,"012","Hochschulen",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2019,"D",13,"013","Lindenhof",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2019,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,142557
+2019,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",12,597521
+2019,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,63721
+2019,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2019,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,314497
+2019,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2019,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2019,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2019,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,21470
+2019,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2019,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2019,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2019,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2019,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",3,45140
+2019,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",3,154950
+2019,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2019,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",5,647672
+2019,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2019,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",3,55050
+2019,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",7,364525
+2019,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,91617
+2019,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",10,251080
+2019,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,34785
+2019,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",4,202200
+2019,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,43700
+2019,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",8,234640
+2019,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,128766
+2019,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2019,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,35200
+2019,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2019,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,64842
+2019,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",7,51818
+2019,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2019,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2019,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,10200
+2019,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2019,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2019,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,63895
+2019,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",9,163400
+2019,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,204860
+2019,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",22,586942
+2019,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,81807
+2019,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",12,46080
+2019,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,26141
+2019,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",5,47080
+2019,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,188109
+2019,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2019,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,89722
+2019,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",12,76728
+2019,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,406665
+2019,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",11,K
+2019,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2019,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2019,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,118200
+2019,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2019,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2019,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2020,"D",12,"012","Hochschulen",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2020,"D",13,"013","Lindenhof",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2020,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,182446
+2020,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",13,578548
+2020,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",4,63921
+2020,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,95885
+2020,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",4,278500
+2020,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,370936
+2020,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,46735
+2020,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2020,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2020,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2020,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2020,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2020,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2020,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2020,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2020,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,17133
+2020,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",5,749360
+2020,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2020,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2020,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2020,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2020,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,163102
+2020,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",10,169145
+2020,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,38632
+2020,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",9,242100
+2020,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,83607
+2020,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",7,57090
+2020,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2020,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,28316
+2020,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2020,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",5,67341
+2020,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,80952
+2020,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",5,31976
+2020,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2020,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,101147
+2020,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,38800
+2020,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2020,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,620000
+2020,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,128512
+2020,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",14,260300
+2020,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,201706
+2020,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",26,602465
+2020,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,72113
+2020,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",17,94047
+2020,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,49916
+2020,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",4,25880
+2020,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,132700
+2020,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",5,124718
+2020,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,47286
+2020,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",6,119791
+2020,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,447862
+2020,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",17,479772
+2020,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,107000
+2020,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",5,38200
+2020,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,128109
+2021,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",14,125995
+2021,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",8,320688
+2021,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2021,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",3,10194
+2021,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,K
+2021,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",3,239800
+2021,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,406506
+2021,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",3,56140
+2021,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,81587
+2021,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",3,18260
+2021,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,63217
+2021,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",5,46200
+2021,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2021,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2021,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2021,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2021,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2021,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",5,734633
+2021,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2021,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",3,26450
+2021,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",3,245415
+2021,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,K
+2021,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",7,116700
+2021,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2021,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",8,49900
+2021,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,75781
+2021,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",8,63335
+2021,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,143000
+2021,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,38004
+2021,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,27780
+2021,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,57200
+2021,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,76712
+2021,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",9,93442
+2021,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2021,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2021,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2021,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2021,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,35290
+2021,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,623100
+2021,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,93730
+2021,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",12,347165
+2021,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,241867
+2021,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",23,593275
+2021,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,216610
+2021,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",17,103017
+2021,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,57616
+2021,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",4,33325
+2021,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2021,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",10,289760
+2021,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",17,175176
+2021,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",7,136891
+2021,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2021,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",22,867143
+2021,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2021,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,29694
+2021,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",7,K
+2021,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2021,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2022,"D",12,"012","Hochschulen",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2022,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,74306
+2022,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",12,301792
+2022,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2022,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2022,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,K
+2022,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2022,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,442000
+2022,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",10,212086
+2022,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,161075
+2022,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,12150
+2022,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,13880
+2022,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",5,52387
+2022,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,41744
+2022,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2022,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2022,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2022,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2022,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",3,91633
+2022,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2022,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2022,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2022,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,79639
+2022,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",9,189636
+2022,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,63700
+2022,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",4,22855
+2022,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,108381
+2022,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",7,599200
+2022,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2022,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",4,K
+2022,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,K
+2022,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2022,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,41522
+2022,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",12,128512
+2022,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2022,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2022,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2022,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,41923
+2022,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2022,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,215678
+2022,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",11,247991
+2022,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",15,121824
+2022,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",22,499340
+2022,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,220388
+2022,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",6,44441
+2022,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,52497
+2022,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",6,46625
+2022,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,139912
+2022,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",9,264515
+2022,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",18,127347
+2022,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",13,224720
+2022,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",16,408338
+2022,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",12,656022
+2022,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2022,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2022,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2022,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",5,110750
+2022,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,70732
+2022,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2023,"D",12,"012","Hochschulen",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2023,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",16,204540
+2023,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",17,211467
+2023,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2023,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",3,24749
+2023,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,K
+2023,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",5,253971
+2023,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,462303
+2023,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",5,K
+2023,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,83087
+2023,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",5,109764
+2023,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",15,135276
+2023,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2023,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2023,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2023,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,6709
+2023,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2023,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2023,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2023,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2023,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2023,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2023,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,123071
+2023,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",14,272102
+2023,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,15500
+2023,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",6,81300
+2023,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",14,132709
+2023,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",10,644500
+2023,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,10859
+2023,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",5,55800
+2023,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,41140
+2023,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",3,22074
+2023,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,128315
+2023,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",6,78025
+2023,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2023,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2023,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2023,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2023,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,21160
+2023,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",8,655350
+2023,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",23,304557
+2023,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",6,207368
+2023,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",17,253484
+2023,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",24,396814
+2023,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",21,236790
+2023,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",9,226206
+2023,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,72705
+2023,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",5,31942
+2023,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,119119
+2023,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",8,301843
+2023,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",24,342723
+2023,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",16,194001
+2023,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,325570
+2023,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",16,656793
+2023,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,221050
+2023,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2023,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,147552
+2023,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",6,K
+2023,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,100679
+2023,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",8,110215
+2024,"D",13,"013","Lindenhof",1,"1","Kreis 1",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2024,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,153519
+2024,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",12,129920
+2024,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2024,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2024,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2024,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",6,K
+2024,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",12,552602
+2024,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,20735
+2024,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2024,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,96584
+2024,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,K
+2024,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",4,99654
+2024,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",3,22220
+2024,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,24100
+2024,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,76538
+2024,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2024,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2024,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,K
+2024,"D",52,"052","Escher Wyss",5,"5","Kreis 5",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2024,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,85282
+2024,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",11,163679
+2024,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,35175
+2024,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",4,68100
+2024,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,126899
+2024,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",10,630910
+2024,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,7700
+2024,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",5,57457
+2024,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,37640
+2024,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",3,23644
+2024,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",16,150700
+2024,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",8,102469
+2024,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2024,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,88500
+2024,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2024,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2024,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,21082
+2024,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",3,K
+2024,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,322565
+2024,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",17,332072
+2024,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",21,374254
+2024,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",21,464891
+2024,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",25,236648
+2024,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",8,232983
+2024,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,51000
+2024,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",4,37805
+2024,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,89850
+2024,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",7,276988
+2024,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",24,377466
+2024,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",15,198237
+2024,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",15,147850
+2024,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",16,744499
+2024,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",4,221050
+2024,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",10,181229
+2024,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",6,170100
+2024,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",6,142287
+2024,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",7,112857
+2025,"D",13,"013","Lindenhof",1,"1","Kreis 1",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2025,"D",21,"021","Wollishofen",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,113705
+2025,"D",21,"021","Wollishofen",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",13,164252
+2025,"D",23,"023","Leimbach",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2025,"D",23,"023","Leimbach",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",4,27732
+2025,"D",24,"024","Enge",2,"2","Kreis 2",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2025,"D",24,"024","Enge",2,"2","Kreis 2",3,"3","Baubegonnen",1,"N","Neubau",7,262430
+2025,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,352500
+2025,"D",31,"031","Alt-Wiedikon",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",10,84197
+2025,"D",33,"033","Friesenberg",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,85775
+2025,"D",33,"033","Friesenberg",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2025,"D",34,"034","Sihlfeld",3,"3","Kreis 3",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,213400
+2025,"D",34,"034","Sihlfeld",3,"3","Kreis 3",3,"3","Baubegonnen",1,"N","Neubau",8,K
+2025,"D",41,"041","Werd",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",1,K
+2025,"D",41,"041","Werd",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2025,"D",42,"042","Langstrasse",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2025,"D",42,"042","Langstrasse",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2025,"D",44,"044","Hard",4,"4","Kreis 4",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,60288
+2025,"D",44,"044","Hard",4,"4","Kreis 4",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2025,"D",51,"051","Gewerbeschule",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,24620
+2025,"D",52,"052","Escher Wyss",5,"5","Kreis 5",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,269780
+2025,"D",61,"061","Unterstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,42177
+2025,"D",61,"061","Unterstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",9,K
+2025,"D",63,"063","Oberstrass",6,"6","Kreis 6",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,26125
+2025,"D",63,"063","Oberstrass",6,"6","Kreis 6",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2025,"D",71,"071","Fluntern",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",11,118644
+2025,"D",71,"071","Fluntern",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",6,961797
+2025,"D",72,"072","Hottingen",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",8,K
+2025,"D",72,"072","Hottingen",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",3,14325
+2025,"D",73,"073","Hirslanden",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2025,"D",73,"073","Hirslanden",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",3,25920
+2025,"D",74,"074","Witikon",7,"7","Kreis 7",2,"2","Bewilligt harmonisiert",1,"N","Neubau",13,143210
+2025,"D",74,"074","Witikon",7,"7","Kreis 7",3,"3","Baubegonnen",1,"N","Neubau",12,125445
+2025,"D",81,"081","Seefeld",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2025,"D",81,"081","Seefeld",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",4,108900
+2025,"D",82,"082","Mühlebach",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2025,"D",82,"082","Mühlebach",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",2,K
+2025,"D",83,"083","Weinegg",8,"8","Kreis 8",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,19400
+2025,"D",83,"083","Weinegg",8,"8","Kreis 8",3,"3","Baubegonnen",1,"N","Neubau",1,K
+2025,"D",91,"091","Albisrieden",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",3,18120
+2025,"D",91,"091","Albisrieden",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",18,636704
+2025,"D",92,"092","Altstetten",9,"9","Kreis 9",2,"2","Bewilligt harmonisiert",1,"N","Neubau",19,565906
+2025,"D",92,"092","Altstetten",9,"9","Kreis 9",3,"3","Baubegonnen",1,"N","Neubau",16,257493
+2025,"D",101,"101","Höngg",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",23,301653
+2025,"D",101,"101","Höngg",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",14,292707
+2025,"D",102,"102","Wipkingen",10,"10","Kreis 10",2,"2","Bewilligt harmonisiert",1,"N","Neubau",5,43920
+2025,"D",102,"102","Wipkingen",10,"10","Kreis 10",3,"3","Baubegonnen",1,"N","Neubau",6,59705
+2025,"D",111,"111","Affoltern",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",9,139000
+2025,"D",111,"111","Affoltern",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",9,286520
+2025,"D",115,"115","Oerlikon",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",17,414761
+2025,"D",115,"115","Oerlikon",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",23,272010
+2025,"D",119,"119","Seebach",11,"11","Kreis 11",2,"2","Bewilligt harmonisiert",1,"N","Neubau",19,345094
+2025,"D",119,"119","Seebach",11,"11","Kreis 11",3,"3","Baubegonnen",1,"N","Neubau",19,521433
+2025,"D",121,"121","Saatlen",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",2,K
+2025,"D",121,"121","Saatlen",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",3,212650
+2025,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",4,K
+2025,"D",122,"122","Schwamendingen-Mitte",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",10,211812
+2025,"D",123,"123","Hirzenbach",12,"12","Kreis 12",2,"2","Bewilligt harmonisiert",1,"N","Neubau",7,163401
+2025,"D",123,"123","Hirzenbach",12,"12","Kreis 12",3,"3","Baubegonnen",1,"N","Neubau",7,213510
