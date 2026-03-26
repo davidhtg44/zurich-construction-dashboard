@@ -9,15 +9,14 @@ from sklearn.ensemble import RandomForestRegressor
 
 st.set_page_config(page_title="Zurich Construction Intelligence", layout="wide")
 
-st.title("🏗️ Zurich Construction Intelligence")
+st.title("Zurich Construction Analysis")
 
 
 @st.cache_data
 def load_data():
     df = pd.read_csv("bau501od5011.csv")
     df.columns = df.columns.str.strip()
-    df = df[df['BaukostenEffektiv'] != 'K'].copy()
-    df['BaukostenEffektiv'] = pd.to_numeric(df['BaukostenEffektiv'])
+    df['BaukostenEffektiv'] = df['BaukostenEffektiv'].apply(lambda x: 0 if x == 'K' else pd.to_numeric(x))
     return df
 
 def load_historical_data():
@@ -115,8 +114,7 @@ for i, anno in enumerate(anni_futuri):
 df_trend = pd.DataFrame({'Year': anni_futuri,'Estimated Cost (CHF)': previsioni_future})
 costo_partenza = df_trend['Estimated Cost (CHF)'].iloc[0]
 
-
-st.markdown("### 📊 Market Overview")
+st.markdown("### Market Overview")
 
 kpi1, kpi2, kpi3 = st.columns(3)
 kpi1.metric(label="Selected Area", value=quartiere_scelto)
@@ -124,12 +122,11 @@ kpi2.metric(label=f"Est. Starting Cost ({anno_partenza})", value=f"{costo_parten
 kpi3.metric(label="Historical Inflation (CAGR)", value=f"{tasso_crescita*100:.2f}%")
 st.write('---')
 
-
 if quartiere_scelto == "All Zurich":
-    st.subheader("📈 10-Year Cost Forecast (All Zurich)")
+    st.subheader("10-Year Cost Forecast (All Zurich)")
     st.write("Aggregated market trend projection for the entire city.")
 else:
-    st.subheader(f"📈 10-Year Cost Forecast ({quartiere_scelto})")
+    st.subheader(f"10-Year Cost Forecast ({quartiere_scelto})")
     st.write("Local market trend projection for the selected neighborhood.")
 
 fig_trend = px.line(df_trend, x='Year', y='Estimated Cost (CHF)', markers=True)
@@ -138,12 +135,10 @@ fig_trend.update_layout(xaxis_title="Year", yaxis_title="Estimated Cost (CHF)", 
 st.plotly_chart(fig_trend, use_container_width=True)
 st.write('---')
 
-
 col_left, col_right = st.columns(2)
 
-
 with col_left:
-    st.subheader("🤖 AI Analysis: Cost Drivers")
+    st.subheader("AI Analysis: Cost Drivers")
     st.write("Key factors influencing final construction costs.")
 
     traduzione_fattori = {
@@ -164,9 +159,8 @@ with col_left:
     fig_pie.update_layout(showlegend=False, margin=dict(t=20, b=20, l=0, r=0))
     st.plotly_chart(fig_pie, use_container_width=True)
 
-
 with col_right:
-    st.subheader('🏗️ Urban Development')
+    st.subheader('Urban Development')
     st.write("Constructions vs. Demolitions over time.")
 
     df_type = data_historic.pivot_table(
@@ -206,59 +200,61 @@ with col_right:
 st.write('---')
 
 
-st.subheader("🗺️ Heatmap: Project Density (2009 - Today)")
+st.subheader("Heatmap: Project Density (2009 - Today)")
 st.write("Construction intensity by neighborhood (from white to pure red).")
 
+QUARSORT_TO_NAME = {
+    11: 'Altstadt', 12: 'Altstadt', 13: 'Altstadt', 14: 'Altstadt', # Kreis 1
+    21: 'Wollishofen', 23: 'Leimbach', 24: 'Enge', # Kreis 2
+    31: 'Wiedikon', 33: 'Wiedikon', 34: 'Wiedikon', # Kreis 3
+    41: 'Aussersihl', 42: 'Aussersihl', 44: 'Aussersihl', # Kreis 4
+    51: 'Industriequartier', 52: 'Industriequartier', # Kreis 5
+    61: 'Unterstrass', 63: 'Oberstrass', # Kreis 6
+    71: 'Fluntern', 72: 'Hottingen', 73: 'Hirslanden', 74: 'Witikon', # Kreis 7
+    81: 'Riesbach', 82: 'Riesbach', 83: 'Riesbach', # Kreis 8
+    91: 'Albisrieden', 92: 'Altstetten', # Kreis 9
+    101: 'Höngg', 102: 'Wipkingen', # Kreis 10
+    111: 'Affoltern', 115: 'Oerlikon', 119: 'Seebach', # Kreis 11
+    121: 'Schwamendingen', 122: 'Schwamendingen', 123: 'Schwamendingen' # Kreis 12
+}
 
 df_map = data.groupby('QuarSort').agg({
     'AnzBauprojekte': 'sum',
     'BaukostenEffektiv': 'sum'
 }).reset_index()
 
+df_map['macro_nome'] = df_map['QuarSort'].map(QUARSORT_TO_NAME)
+df_district = df_map.groupby('macro_nome').agg({
+    'AnzBauprojekte': 'sum',
+    'BaukostenEffektiv': 'sum'
+}).reset_index()
 
-df_map['QuarSort_int'] = df_map['QuarSort'].fillna(0).astype(int)
+map_prog = dict(zip(df_district['macro_nome'], df_district['AnzBauprojekte']))
+map_cost = dict(zip(df_district['macro_nome'], df_district['BaukostenEffektiv']))
 
+max_progetti = float(df_district['AnzBauprojekte'].max()) if not df_district.empty else 1.0
 
-map_prog = dict(zip(df_map['QuarSort_int'], df_map['AnzBauprojekte']))
-map_cost = dict(zip(df_map['QuarSort_int'], df_map['BaukostenEffektiv']))
-
-max_progetti = float(df_map['AnzBauprojekte'].max()) if not df_map.empty else 1.0
-
-
-with open("stzh.adm_statistische_quartiere_v.json", "r", encoding="utf-8") as f:
+with open("quartiere2.json", "r", encoding="utf-8") as f:
     geojson = json.load(f)
-
 
 for feature in geojson['features']:
     props = feature['properties']
     
-    
-    qnr = props.get('qnr')
-    
-    if qnr is not None:
-        q_id = int(qnr) 
-        totale_cantieri = map_prog.get(q_id, 0)
-        totale_costi = map_cost.get(q_id, 0) * 1000
-    else:
-        totale_cantieri = 0
-        totale_costi = 0
-    
+    qname = props.get('name', 'Unknown')
+
+    totale_cantieri = map_prog.get(qname, 0)
+    totale_costi = map_cost.get(qname, 0) * 1000
     
     if totale_cantieri == 0:
-        
-        colore = [50, 50, 50, 150] 
+        colore = [40, 40, 40, 150]
     else:
         ratio = totale_cantieri / max_progetti
-        
         colore = [255, int(255 * (1 - ratio)), int(200 * (1 - ratio)), 200]
-        
     
     feature['properties']['fill_color'] = colore
     feature['properties']['totale_progetti'] = int(totale_cantieri)
     feature['properties']['totale_costi_str'] = f"{totale_costi:,.0f} CHF"
-    
-    feature['properties']['nome_quartiere_bello'] = props.get('qname', 'Unknown')
-
+    feature['properties']['nome_quartiere_bello'] = qname
 
 view_state = pdk.ViewState(
     latitude=47.3769,
@@ -271,12 +267,12 @@ view_state = pdk.ViewState(
 layer = pdk.Layer(
     "GeoJsonLayer",
     data=geojson,
-    opacity=1.0, 
+    opacity=1.0,
     stroked=True,
     filled=True,
     extruded=False,
     get_fill_color="properties.fill_color",
-    get_line_color=[150, 150, 150, 100], 
+    get_line_color=[150, 150, 150, 100],
     line_width_min_pixels=1,
     pickable=True
 )
