@@ -38,7 +38,7 @@ Y = data['BaukostenEffektiv']
 st.sidebar.header("Input parameters")
 
 def user_input_features(data):
-    st.sidebar.markdown("### ⚙️ Simulation Settings")
+    st.sidebar.markdown("###Simulation Settings")
 
     StichtagDatJahr = st.sidebar.slider('Starting Year', int(X['StichtagDatJahr'].min()), int(X['StichtagDatJahr'].max()), int(X['StichtagDatJahr'].mean()))
 
